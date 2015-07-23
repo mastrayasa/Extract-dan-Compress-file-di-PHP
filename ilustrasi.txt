@@ -1,0 +1,11 @@
+- contoh-file1
+	- contoh-file.txt
+	- contoh-file.docx
+- contoh-file2
+	- Hydrangeas.jpg
+	- Desert.jpg
+	- Chrysanthemum.jpg
+- zip.php
+- zip-advance.php
+- unzip.php
+- contoh.zip
